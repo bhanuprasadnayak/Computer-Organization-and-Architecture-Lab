@@ -1,0 +1,6 @@
+ENTRY(main)
+
+SECTIONS
+{
+	. = 0xBB000000;
+}
